@@ -1,3 +1,8 @@
 DataScienceProject
+<<<<<<< HEAD
 Feature: Data Cleaning
 Created by Team Member 1
+=======
+Feature: Data Visualization
+Created by Team Member 2
+>>>>>>> f56a798
